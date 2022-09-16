@@ -25,7 +25,7 @@ public class WyrazeniaRegularne {
             System.out.println("Imie z duzej litery");
         }
 
-
+//Komentarz
 
 
 
